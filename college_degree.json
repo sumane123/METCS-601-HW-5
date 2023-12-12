@@ -1,0 +1,28 @@
+{
+  "degrees": [
+    {
+      "school": "Pune University",
+      "program": "Bachelor in Computer Science",
+      "type": "BS",
+      "year_conferred": 2001
+    },
+    {
+      "school": "CDAC",
+      "program": "Diploma in Advance Computing",
+      "type": "Diploma",
+      "year_conferred": 2002
+    },
+    {
+      "school": "Pune Institute of Computer Technology",
+      "program": "Post Graduate Diploma in IT and Management",
+      "type": "MBA",
+      "year_conferred": 2004  
+    },
+    {
+      "school": "Boston University",
+      "program": "Master of Science in Computer Information Systems",
+      "type": "MS",
+      "year_conferred": null
+    }
+  ]
+}
