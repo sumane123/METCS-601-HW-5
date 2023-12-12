@@ -1,7 +1,7 @@
 document.getElementById("fetchBtn").addEventListener("click", fetchCollegeDegree);
 
 function fetchCollegeDegree() {
-  fetch('https://heroic-mochi-98b086.netlify.app/college_degree.json')
+  fetch('https://heroic-mochi-98b086.netlify.app/data/college_degree.json')
     //fetch('../data/college_degree.json')
     .then(response => {
       if (!response.ok) {
